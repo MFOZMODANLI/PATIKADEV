@@ -10,5 +10,6 @@ public class vki {
         double b=scanner.nextDouble();
         double c=b/(a*a);
         System.out.println("Vücut kitle endeksiniz : "+c);
+        scanner.close();
     }
 }
