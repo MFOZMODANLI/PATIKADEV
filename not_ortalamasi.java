@@ -22,7 +22,8 @@ public class not_ortalamasi {
         double sonuc=(mat+fizik+kimya+turkce+tarih+müzik)/6;
         System.out.println("Ortalamanız : "+sonuc);
 
-        
+      scanner.close();
+  
     }
     
 }
