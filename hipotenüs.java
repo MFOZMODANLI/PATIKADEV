@@ -10,7 +10,7 @@ public class hipotenüs {
         System.out.println("İkinci kenarın uzunluğunu giriniz : ");
         double b=scanner.nextInt();
         double c=Math.sqrt(Math.pow(a,2)+Math.pow(b,2));
-        System.out.println("Hipotenüsün uzunluğu : ");
+        System.out.println("Hipotenüsün uzunluğu : "+c);
 
         scanner.close();
     }
