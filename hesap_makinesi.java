@@ -40,6 +40,6 @@ public class hesap_makinesi {
 			System.out.println("Lütfen Geçerli Bir Sayı Giriniz:");
 			break;
 		}
-        
+       scanner.close(); 
     }
 }

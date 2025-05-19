@@ -18,7 +18,7 @@ public class kullanıcı_girişi {
 		} else {
             System.out.println("Bilgileriniz yanlış...");
 		}
-        scanner.close();s
+        scanner.close();
     }
     
 }

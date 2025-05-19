@@ -58,6 +58,7 @@ public class sınıf_geçme {
 			System.out.println("Dersten Kaldınız!");
 		}
 		System.out.print("Not ortalamanız : " + average);
+		scanner.close();
     }
     
 }

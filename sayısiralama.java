@@ -36,6 +36,7 @@ public class sayısiralama {
                 System.out.println("c>b>a");
             }
         }
+        input.close();
     }
     
 }

@@ -24,6 +24,7 @@ public class hava_sicakligi {
         if (heat > 40) {
             System.out.print("Evden çıkma fazla sıcak !");
         }
+    inp.close();
     }
     
 }

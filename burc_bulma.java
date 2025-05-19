@@ -155,6 +155,7 @@ public class burc_bulma {
         } else {
             System.out.println("Burcunuz:" + burc);
         }
+        input.close();
     }
     
 }
